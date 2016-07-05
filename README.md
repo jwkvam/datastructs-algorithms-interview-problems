@@ -19,6 +19,9 @@ To query for data, run:
 python batched_queries.py
 ```
 
+> *IMPORTANT:* You are forbidden from just dispatching requests asynchronously
+without batching first.
+
 ## Output
 
 It is very important that the batched query generates the output in the
