@@ -74,7 +74,7 @@ def run_all_queries_batched(all_queries):
 def main():
 
     queries = [
-        DataQuery("Boutique Panel A15", 150),
+        DataQuery("Boutique Panel A15", 157),
         DataQuery("Lab Cooling Towers", 500.25),
         DataQuery("Verdigris HQ Elevator", 157),
         DataQuery("Lab Cooling Towers", 460.25),
